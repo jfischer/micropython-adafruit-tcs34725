@@ -1,6 +1,13 @@
-DEPRECATED LIBRARY Adafruit TCS34725 Library
+LIBRARY Adafruit TCS34725 Library
 ============================================
 
+The TCS34725 is a color sensor breakout board. Adafruit originally provided MicroPython code to talk to the board, but
+deprecated it when they switched to CircuitPython. However, there is no port of CircuitPython on Micro:Bit.
+I am attempting to revive this library to support the Micro:Bit. The current status is "Work in Progress".
+
+
+Original Readme
+---------------
 This library has been deprecated! We are leaving this up for historical and research purposes but archiving the repository.
 
 We are only supporting CircuitPython libraries.
